@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544040060 source:e:\codeblocks projects\banker's algorithm\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1544127534 source:g:\asu\class 2020\operating systems\banker_s algorithm\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
